@@ -168,7 +168,6 @@ python-octaviaclient==3.10.0
 python-openstackclient==7.4.0
 python-swiftclient==4.7.0
 pytz==2022.7.1
-pywin32==308
 PyYAML==6.0.2
 RapidFuzz==3.12.2
 referencing==0.36.2
