@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+fuzzywuzzy
+python-Levenshtein
+ollama
